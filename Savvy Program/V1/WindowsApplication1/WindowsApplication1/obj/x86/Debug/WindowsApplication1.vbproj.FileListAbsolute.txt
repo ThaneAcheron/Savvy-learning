@@ -1,0 +1,71 @@
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Terms_main_menu.resources
+F:\Files\Software design\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\Files\Software design\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\Files\Software design\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Terms_main_menu.resources
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Terms_main_menu.resources
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Files\Software design\Programs\V.B programs\Savvy\Savvy Program\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Terms_main_menu.resources
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thane_Acheron\Desktop\Software design\Programs\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Thane_Acheron\Desktop\Software design\Programs\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Thane_Acheron\Desktop\Software design\Programs\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Thane_Acheron\Desktop\Software design\Programs\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Thane_Acheron\Desktop\Software design\Programs\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Thane_Acheron\Desktop\Software design\Programs\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Thane_Acheron\Desktop\Software design\Programs\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Thane_Acheron\Desktop\Software design\Programs\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Thane_Acheron\Desktop\Software design\Programs\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Terms_main_menu.resources
+C:\Users\Thane_Acheron\Desktop\Software design\Programs\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Terms_main_menu.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Savvy\Savvy Program\V1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
